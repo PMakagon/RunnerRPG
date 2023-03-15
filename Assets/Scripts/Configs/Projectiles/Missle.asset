@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc664cd9ae77436dad67f54ca1b471cd, type: 3}
+  m_Name: Missle
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1066972533464320285, guid: a55f1b5597cf05c4ea3d151d022766e3, type: 3}
+  projectileName: Missile
+  shootType: 1
+  baseChance: 0.1
+  baseDamage: 6
